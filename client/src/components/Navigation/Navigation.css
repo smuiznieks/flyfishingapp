@@ -1,0 +1,24 @@
+.navbar {
+    margin-bottom: 2em;
+    background-color: #574F2A;
+}
+
+.navbar-brand, .nav-link, .navbar-toggler, .dropdown-toggle, a {
+    color: #F8F8F8;
+    text-transform: uppercase;
+}
+
+.navbar-brand:hover, .nav-link:hover, .navbar-toggler:hover .dropdown-toggle:hover, a:hover {
+    color: #F8F8F8;
+    text-decoration: underline;
+}
+
+.navbar-brand {
+    font-size: 1.75em;
+    font-weight: 700;
+    letter-spacing: .02em;
+}
+
+.dropdown-menu.show, button.dropdown-item:hover {
+    background-color: #84732B;
+}

@@ -1,0 +1,24 @@
+.giphy-div {
+    width: 100%;
+    height: 0;
+    padding-bottom: 81%;
+    position: relative;
+}
+
+.giphy-embed {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+
+}
+
+.giphy-caption {
+    font-size: .5em;
+}
+
+.fish-flop {
+    font-size: 3em;
+    padding: 0;
+}
+
+

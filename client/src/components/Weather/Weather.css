@@ -1,0 +1,39 @@
+.card-title, .card-subtitle, .card-text {
+    color: #F8F8F8;
+}
+
+.card-subtitle {
+    margin-top: 1em;
+}
+
+#current-subtitle {
+    margin: 1em 0em;
+}
+
+.updated {
+    font-size: .75em;
+}
+
+.high-low {
+    float: right;
+}
+
+.forecast {
+    font-size: 1.2em;
+    padding-right: .5em;
+}
+
+.card {
+    margin: 1em 0em;
+    background-color: #574F2A;
+}
+
+#yahoo {
+    background-color: #F8F8F8;
+    border-radius: 3px;
+    float: right;
+}
+
+/* .temp-C {
+    float: right;
+} */
